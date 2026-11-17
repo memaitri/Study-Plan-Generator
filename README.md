@@ -124,8 +124,4 @@ Click **Generate plan** — your timetable appears in seconds.
 - Very short prep windows (1–2 days) produce a crash-schedule with limited topic coverage.
 - Free-tier API rate limits can cause intermittent errors; waiting a few seconds and retrying resolves them.
 
----
 
-## Author
-
-**Maitri Mahesh Movaliya** — Roll No. 25, LY CORE 6, MIT-ADT University, Pune
